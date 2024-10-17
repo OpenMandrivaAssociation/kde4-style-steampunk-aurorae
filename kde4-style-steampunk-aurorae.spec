@@ -4,7 +4,7 @@ Version:	3.0
 Release:	2
 License:	Creative Commons Attribution-ShareAlike
 Group:		Graphical desktop/KDE
-Url:		http://kde-look.org/content/show.php?content=158790
+Url:		https://kde-look.org/content/show.php?content=158790
 Source0:	http://kde-look.org/CONTENT/content-files/158790-SteampunK.tar.gz
 Requires:	kdebase4-workspace >= 2:4.10
 BuildRequires:	kde4-macros
